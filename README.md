@@ -5,7 +5,7 @@
 A Colorado Board of Education employee has asked for some help with auditing a recent local congressional election. They want to know about county-based results (which had the biggest turn-out, and what percent of the total vote each county accounted for) as well as candidate-based results (number of votes and percentage, as well as overall winner.)
 
 ## Resources
-- Data Source: election_results/csv
+- Data Source: election_results.csv
 - Software: Python 3.7.2, Visual Studio Code 1.58
 
 ## Election-Audit Results
