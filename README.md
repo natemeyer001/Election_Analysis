@@ -11,10 +11,10 @@ A Colorado Board of Education employee has asked for some help with auditing a r
 ## Election-Audit Results
 - There were 369,711 total votes in the congressional election
 - Jefferson county had 38,855 votes (10.5% of total votes)
-# - Denver had 306,055 votes (82.8%)
+- Denver had 306,055 votes (82.8%)
 - Arapahoe had 24,801 votes (6.7%)
 - Charles Casper Stockham had 85,213 votes (23.0% of total votes)
-# - Diana DeGette has 272,892 votes (73.8%)
+- Diana DeGette has 272,892 votes (73.8%)
 - Raymond Anthony Doane had 11,606 votes (3.1%)
 - The winner was Diana DeGette with 73.8% of the overall votes (272,892)
 
